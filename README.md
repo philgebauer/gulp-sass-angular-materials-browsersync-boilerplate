@@ -1,10 +1,6 @@
 # A Boilerplate for projects that include:
-## Gulp, Sass, Angular, Angular Materials, and BrowserSync, Express, and Firebase
 
-
-
-## The Boilerplate
-
+** Gulp, Sass, Angular, Angular Materials, and BrowserSync, Express, and Firebase **
 
 ## Getting Started
 ### Installing
