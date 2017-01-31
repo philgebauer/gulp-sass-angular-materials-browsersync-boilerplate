@@ -5,7 +5,7 @@
 ## Getting Started
 ### Installing
 
-First, clone STEMentor to your local machine, and move into that directory.
+First, clone the repo to your local machine, and move into that directory.
 
 ```shell
 git clone https://github.com/philgebauer/gulp-sass-angular-materials-browsersync-boilerplate
@@ -47,4 +47,4 @@ Once installed and started, the site should load automatically in your browser. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/STEMentor/stementor/blob/master/LICENSE.txt) file for details
+This project is licensed under the MIT License 
